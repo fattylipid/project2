@@ -1,4 +1,4 @@
-![Coverage Badge](https://github.com/{fattylipid}/{project2}/actions/workflows/{tests.yml}/badge.svg)
+![Coverage Badge](https://github.com/fattylipid/project2/actions/workflows/tests.yml/badge.svg)
 
 # 📦 Project Setup
 
